@@ -11,3 +11,4 @@ Important steps for workflow
 5.Commit cahnges to version history
 Review previous changes with git log
 
+Hello world, this is pretty sick 
